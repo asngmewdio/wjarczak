@@ -10,4 +10,4 @@
 
 ## Github Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=wjarczak&show_icons=true&locale=en" alt="wjarczak" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wjarczak&show_icons=true&locale=en" alt="wjarczak" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wjarczak&layout=compact&show_icons=true&locale=en" alt="wjarczak" /></p>
