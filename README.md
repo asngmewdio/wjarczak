@@ -1,6 +1,6 @@
 
 ## 🧑🏽‍💻 About me 
-I am DevOps Engineer from System Engineering & Administration branch. In spare time I continue on learning and develop my homelab infrastructure. Ohh and the most important thing "I'm funny". \
+I am DevOps Engineer. \
 If you are reading this: Have a nice day!
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wjarczak) 
